@@ -34,7 +34,7 @@ GitHub | https://github.com/kkang45597
 - AWS S3, AWS EC2, Docker, Git/GitHub
 
 <b>기타</b><br>
-- ESTful API 설계, 테스트 자동화 (JUnit, Jest)
+- RESTful API 설계, 테스트 자동화 (JUnit, Jest)
 * * *
 
 ## 5. 훈련 및 자격
