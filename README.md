@@ -5,7 +5,6 @@
 이메일 | kkang45597gmail.com
 기술 블로그 | https://blank001.tistory.com/
 GitHub | https://github.com/kkang45597
-포트폴리오 | 
 * * *
 
 ## 2. 지원 목적
@@ -42,6 +41,6 @@ GitHub | https://github.com/kkang45597
 1. HRD-NET [기업맞춤 PBT] 클라우드 기반 AI 서비스 (2024-06-24 ~ 2024-12-26) <br>
 [교과 과정](https://hrd.work24.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20230000412830&tracseTme=5&crseTracseSe=C0061&trainstCstmrId=500020048147)
 [교육 내용](https://github.com/kkang45597/PBT_Cloud_AI_Service)
-<img src="./HRD-NET.png" width=600px />
+<img src="./HRD_NET.png" width=600px />
 
 
