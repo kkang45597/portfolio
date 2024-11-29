@@ -39,7 +39,8 @@ GitHub | https://github.com/kkang45597
 
 ## 5. 훈련 및 자격
 1. HRD-NET [기업맞춤 PBT] 클라우드 기반 AI 서비스 (2024-06-24 ~ 2024-12-26) <br>
-[[훈련과정]](https://hrd.work24.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20230000412830&tracseTme=5&crseTracseSe=C0061&trainstCstmrId=500020048147) [[교육 내용]](https://github.com/kkang45597/PBT_Cloud_AI_Service)
+[[훈련과정]](https://hrd.work24.go.kr/hrdp/co/pcobo/PCOBO0100P.do?tracseId=AIG20230000412830&tracseTme=5&crseTracseSe=C0061&trainstCstmrId=500020048147) /
+[[교육 내용]](https://github.com/kkang45597/PBT_Cloud_AI_Service)
 <img src="./HRD_NET.png" width=600px />
 
 
