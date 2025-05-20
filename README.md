@@ -25,7 +25,7 @@ GitHub | https://github.com/kkang45597
 
 ## 4. 보유 기술
 <b>프로그래밍 언어</b><br>
-- Java, JavaScript, C, C++, Python
+- Java, JavaScript, C, C++, C#, Python
 
 <b>웹 및 애플리케이션 개발</b><br>
 - 백엔드: Spring Boot, Django, Node.js
