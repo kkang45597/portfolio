@@ -96,8 +96,7 @@ GitHub | https://github.com/kkang45597
 <img src="./HRD_NET_END.png" width=600px />
 
 2. PBL 기반 AI+첨단 의료 부트캠프 사업 (2025-07-23 ~ 2025-10-21) <br>
-[[훈련과정 및 교육 과정]] (https://dgict.org/edu_submit/) <br>
-[[팀 프로젝트 결과물]] (https://github.com/kkang45597/DG_ICT_sugarCare_project)
+[[훈련과정 및 교육 과정]](https://dgict.org/edu_submit/) / [[팀 프로젝트 결과물]](https://github.com/kkang45597/DG_ICT_sugarCare_project)
 
 
 
